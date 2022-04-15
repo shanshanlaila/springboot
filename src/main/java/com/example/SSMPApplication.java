@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SSMPApplication {
 
     public static void main(String[] args) {
+        //更新了一个注解
         SpringApplication.run(SSMPApplication.class, args);
     }
 
