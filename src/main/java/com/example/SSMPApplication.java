@@ -9,7 +9,6 @@ public class SSMPApplication {
     public static void main(String[] args) {
         //master 进行了修改
         SpringApplication.run(SSMPApplication.class, args);
-        System.out.println("dev commit");
     }
 
 }
